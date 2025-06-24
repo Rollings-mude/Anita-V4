@@ -1,5 +1,5 @@
 {
-  "name": "Queen Anita V4",
+  "name": "DEITY MUDE",
   "description": "A WhatsApp Bot Created By David Cyril",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
@@ -7,7 +7,9 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here.",
+      "description": "
+{"noiseKey":{"private":{"type":"Buffer","data":"ONQ0xyg7qkL16K/9LTzPoEI7sVBPnTOUwGitOLRcp3E="},"public":{"type":"Buffer","data":"LN4MJFayqVi6rJVZkfIY48sAwprUzYSZSy/kLSRxkSg="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"CK/xTshM02wGcPJSPlFbm87koq0axKVD/C4neVMZKXI="},"public":{"type":"Buffer","data":"B2ISNjucwzIj5q7iky+sLECpvIEkP/XYxn5GQJHrIl8="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"+EyNEjpxN8vhCWJf9UrSCGTijrerUmXuFIv3hVNueXM="},"public":{"type":"Buffer","data":"M7xPoqf5dxJtC6qjK44kijSKWF52kUW60ZefFlI88hY="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"kEzfmNUAZFfGbLZSZzkR77tYaPzrRYqT+FwS/4zNQUQ="},"public":{"type":"Buffer","data":"YFEeTHzuee7DY15jKs40011wASUMV3LKJ1eErBLqW1k="}},"signature":{"type":"Buffer","data":"JqlI4XXcCWv/kBr/8NeE3zaPHDABsZrAhWUoYOj2vS8t3vffLbmTfNrcWX5eVmwTrU5LKRfUEIi62lIvSFHUiw=="},"keyId":1},"registrationId":175,"advSecretKey":"DocB3Fqm+JKl5VG6kmXs0b1wGW5+mpeMudvqpFGDFFU=","processedHistoryMessages":[{"key":{"remoteJid":"263718436389@s.whatsapp.net","fromMe":true,"id":"AC668183846C62927C68DFF05E7D58BF"},"messageTimestamp":1750776601},{"key":{"remoteJid":"263718436389@s.whatsapp.net","fromMe":true,"id":"0D0BC2C33563C0A5EAAE96DD4905DE74"},"messageTimestamp":1750776602}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"CYRILDEV","me":{"id":"263718436389:30@s.whatsapp.net","lid":"272864070615227:30@lid","name":"Deity Mude"},"account":{"details":"CL2MxnQQivbqwgYYASAAKAA=","accountSignatureKey":"juBDYFubrC129CwHjs7rW6j0/Y0waZjnKeyzgD0dCEw=","accountSignature":"Y+bg7HCYzD5au7aWRiuSOPgTfecijtwh2hWa0Rk9ZIhLkvnVypvGGYmLAcT2JqdBJqKiWHeQBagVyxw3bgkRCA==","deviceSignature":"1wW7JNjCmEwJdRLxwVS0q4jrXr5ifFfwIy4E1nctOUHiJwk2R8+NEeyz3eKwP3Ix7zpa70CtsyAID4Iklji2gg=="},"signalIdentities":[{"identifier":{"name":"263718436389:30@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BY7gQ2Bbm6wtdvQsB47O61uo9P2NMGmY5ynss4A9HQhM"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CA0IEg=="},"lastAccountSyncTimestamp":1750776597,"lastPropHash":"nm3Bb","myAppStateKeyId":"AAAAAMWZ"}
+",
       "value": ""
     },
     "PREFIX": {
